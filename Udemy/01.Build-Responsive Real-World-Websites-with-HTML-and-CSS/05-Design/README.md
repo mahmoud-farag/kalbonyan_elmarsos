@@ -26,11 +26,13 @@
 
 ## free high quality Icons websites:
 
-- [Phosphor Icons](https://phosphoricons.com/)
-- [Ionicons](https://ionic.io/ionicons/v4)
-- [Icons8](https://icons8.com/)
+- [flatIcon](https://www.flaticon.com/)
 
-* [herIcons'SVG icons'](https://heroicons.com/)
+* [Phosphor Icons](https://phosphoricons.com/)
+* [Ionicons](https://ionic.io/ionicons/v4)
+* [Icons8](https://icons8.com/)
+
+- [herIcons'SVG icons'](https://heroicons.com/)
   ### note: always use SVG(vector-based) not regular images (Bitmap)
 
 ## design inspiration websites:
