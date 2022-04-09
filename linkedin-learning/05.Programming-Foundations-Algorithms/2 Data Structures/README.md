@@ -4,7 +4,7 @@
 
 - 🐱‍🏍algorithms==> a set of instructions to complete a specific task.
 
-* 🐱‍🏍Algorithm complexity:
+* Algorithm complexity:
 
   - space complexity ==> how much does it require to complete the task.
   - time complexity ==> how much time it require to complete the task.
@@ -15,8 +15,8 @@
 
 ## 🧐03. Recursion:
 
-- 🐱‍🏍when a function calls itself.
-- 🐱‍🏍rules:
+- when a function calls itself.
+- rules:
   - a breaking condition to end the loop
   * each iteration the last args were saved.
 
@@ -30,6 +30,6 @@
 
   ## 🧐05. Other Algorithms:
 
-- 🐱‍🏍you can use the hash tables to find the unique values.
+- you can use the hash tables to find the unique values.
 
-* 🐱‍🏍you can use hash tables to count number of items occureing.
+* you can use hash tables to count number of items occureing.
