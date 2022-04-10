@@ -74,6 +74,51 @@
 
 ## 🧐03. Working Locally with GitHub Desktop:
 
+### 🙄tracking Branch?
+
+- 🐱‍🏍checking out a local branch automatically creates a tracking branch.
+- 🐱‍🏍a local branch with a direct relationship to a remote branch.
+- 🐱‍🏍git knows which branch to push to
+
+### 🙄available IDEs ?
+
+- 🐱‍🏍VSCode.
+- 🐱‍🏍intelliJ.
+- 🐱‍🏍Atom.
+- 🐱‍🏍Xcode.
+- 🐱‍🏍Eclipes.
+- 🐱‍🏍Gitkraken
+
+### 🙄push?
+
+==>🤩 upload your local changes to github.
+
+### 🙄pull?
+
+==>🤩 download any changes from github into the local repository.
+
+### 🙄merge?
+
+==>🤩 to combine two or more branches with the main branch.
+
 ## 🧐04. Moving Your Project to GitHub:
 
+### 🙄.gitignore?
+
+==>🤩 to ignore certain files from uploading to github{cloud}.
+
+### 🙄public VS private rpo?
+
+==>🤩 public means that any one can access and see your repo, private vis versa.
+
+### 🙄open-source?
+
+==>🤩 a software/projects/ tools that any one can view, modify, and distribute.
+
 ## 🧐05. Working with Others on GitHub
+
+### 🙄how to create a readme.md?
+
+==>🤩 using html tags like h1/h2/img....
+==>🤩 '[]{}' for adding url/img
+==>🤩 emphasis using _text_/ **text **/ _text_/ **text**
