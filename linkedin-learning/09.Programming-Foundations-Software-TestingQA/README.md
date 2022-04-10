@@ -108,7 +108,7 @@ plan==>define==>design==>build==>test==>deploy {applied in leaner way}
 
 ### 🙄 vulnerabilities?
 
-    ==>🤩 in dependencies can cause massive security
+==>🤩 in dependencies can cause massive security
 
 ## 🧐 04. Bug Reporting:
 
@@ -120,8 +120,12 @@ plan==>define==>design==>build==>test==>deploy {applied in leaner way}
 
 ### 🙄 severity?
 
-    ==>🤩 how impactful the bug is to the business.
+==>🤩 how impactful the bug is to the business.
 
 ### 🙄 priority?
 
-    ==>🤩 how fast the bug should be fixed.
+==>🤩 how fast the bug should be fixed.
+<br/>
+
+🐳🐳[linkedin-course](https://www.linkedin.com/learning/programming-foundations-software-testing-qa)
+🐳🐳[linkedin certification](https://www.linkedin.com/learning/certificates/90e1e990161e564d77693d031cceebec6149100227e945abe95b8909b92c27d4?trk=share_certificate)

@@ -92,3 +92,8 @@ a 🐱‍🏍Collection of key/value pairs
 * 🐱‍🏍binary tree==>🤩 a tree which have only two children.
 * 🐱‍🏍Heap==>🤩 a data structure implemented as binary tree.
 * 🐱‍🏍binary tree Big O ==>🤩 balanced:O(log(n)), unbalanced: O(n)
+
+---
+
+🐳🐳[linkedin-course](https://www.linkedin.com/learning/programming-foundations-data-structures-2)
+🐳🐳[linkedin certification](https://www.linkedin.com/learning/certificates/c8ebd550eeb7e98304cfa7bb04aeb79bcb0ec4fa4d26fa936a94d93e58c38981?trk=share_certificate)

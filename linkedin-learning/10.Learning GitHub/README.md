@@ -122,3 +122,7 @@
 ==>🤩 using html tags like h1/h2/img....
 ==>🤩 '[]{}' for adding url/img
 ==>🤩 emphasis using _text_/ **text **/ _text_/ **text**
+<br/>
+
+🐳🐳[linkedin-course](https://www.linkedin.com/learning/learning-github)
+🐳🐳[linkedin certification](https://www.linkedin.com/learning/certificates/90e1e990161e564d77693d031cceebec6149100227e945abe95b8909b92c27d4?trk=share_certificate)

@@ -33,3 +33,8 @@
 - 🐱‍🏍you can use the hash tables to find the unique values.
 
 * 🐱‍🏍you can use hash tables to count number of items occureing.
+
+<br/>
+
+🐳🐳[linkedin-course](https://www.linkedin.com/learning/programming-foundations-algorithms)
+🐳🐳[linkedin certification](https://www.linkedin.com/learning/certificates/77d32536d95051ef5318a336d211bfd4aad962a6f3e6bd7230fe519595e2eaa6?trk=share_certificate)

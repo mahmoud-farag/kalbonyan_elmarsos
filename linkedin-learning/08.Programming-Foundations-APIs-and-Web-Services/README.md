@@ -113,3 +113,7 @@ a software tool used to test SOAP-based web-services
 ### 🙄subscription?
 
 ==>🤩 notifies changes in data in real time.
+<br/>
+
+🐳🐳[linkedin-course](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services)
+🐳🐳[linkedin certification](https://www.linkedin.com/learning/certificates/c1b0d2ff706fc3b6f3e23c4c7c3d54e41a143983c04f6c213068195d8fddf7ee?trk=share_certificate)

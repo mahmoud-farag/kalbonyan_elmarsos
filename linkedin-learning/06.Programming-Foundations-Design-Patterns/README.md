@@ -71,3 +71,7 @@
 ## 🧐07. The Factory pattern:
 
 ==>🤩 its defines an interface for creating an object, but lets subclasses decide which class to instantiate. factory method lets a class defer instantiation to subclasses.
+<br/>
+
+🐳🐳[linkedin-course](https://www.linkedin.com/learning/programming-foundations-design-patterns-2?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b)
+🐳🐳[linkedin certification](https://www.linkedin.com/learning/certificates/eedc331d149cd6211eca34396629bf4c7a5e5c12983a4ad89fd5aefd00d5a74a?trk=share_certificate)

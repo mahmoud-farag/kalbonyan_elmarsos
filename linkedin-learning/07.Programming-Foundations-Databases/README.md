@@ -128,3 +128,7 @@
 - 🐱‍🏍a series of commands stored on the DB.
 - 🐱‍🏍allow reuse of long or detailed queries instead of writing them for eac use.
 - 🐱‍🏍provide a safe way to deal with sensitive data.
+  <br/>
+
+🐳🐳[linkedin-course](https://www.linkedin.com/learning/programming-foundations-databases-2)
+🐳🐳[linkedin certification](https://www.linkedin.com/learning/certificates/a0144a3dd3fed26907bf0f80316949ad0e9c352e9df5bb4d884ddabc935c5c62?trk=share_certificate)
