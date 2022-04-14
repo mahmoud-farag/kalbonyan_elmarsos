@@ -70,3 +70,89 @@ checkFlexGap();
   }
 }
 */
+/***************************************
+ * ******************
+ * ***ACTIVATE MOBIEL NAVIGATON
+ * *****************
+ ****************************************  */
+const navBtn = document.querySelector(".btn-mobile-nav");
+const headerElement = document.querySelector(".header");
+
+// adding a listener
+navBtn.addEventListener("click", () => {
+  headerElement.classList.toggle("nav-open");
+});
+/***************************************
+ * ******************
+ * ***Implement smooth scrolling
+ * *****************
+ ****************************************  */
+const allLinks = document.querySelectorAll("a:link");
+
+allLinks.forEach((link) => {
+  link.addEventListener("click", (e) => {
+    e.preventDefault();
+    const hrefAttr = link.getAttribute("href");
+
+    // scroll to top of page
+    if (hrefAttr === "#") {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+    if (hrefAttr !== "#" && hrefAttr.startsWith("#")) {
+      const sectionElement = document.querySelector(hrefAttr);
+      sectionElement.scrollIntoView({ behavior: "smooth" });
+    }
+    if (link.classList.contains("main-nav--link")) {
+      headerElement.classList.toggle("nav-open");
+      // console.log(link);
+    }
+  });
+});
+/***************************************
+ * ******************
+ * ***Implement sticky header
+ * *****************
+ ****************************************  */
+const heroSection = document.querySelector(".hero-section");
+const observer = new IntersectionObserver(
+  function (viewPortEntries) {
+    const currentView = viewPortEntries[0];
+
+    if (currentView.isIntersecting === false) {
+      document.body.classList.add("sticky");
+    }
+    if (currentView.isIntersecting) {
+      document.body.classList.remove("sticky");
+    }
+  },
+  {
+    root: null,
+    threshold: 0,
+    rootMargin: "-80px",
+  }
+);
+observer.observe(heroSection);
+// const sectionHeroEl = document.querySelector(".hero-section");
+// const virtaulBody = document.querySelector(".virtualBody");
+
+// const obs = new IntersectionObserver(
+//   function (entries) {
+//     const ent = entries[0];
+//     console.log(ent);
+
+//     if (ent.isIntersecting === false) {
+//       virtaulBody.classList.add("sticky");
+//     }
+
+//     if (ent.isIntersecting === true) {
+//       virtaulBody.classList.remove("sticky");
+//     }
+//   },
+//   {
+//     // In the viewport
+//     root: null,
+//     threshold: 0,
+//     rootMargin: "-80px",
+//   }
+// );
+// obs.observe(sectionHeroEl);

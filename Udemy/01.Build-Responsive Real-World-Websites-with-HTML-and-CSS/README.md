@@ -4,10 +4,7 @@
 
 🐳🐳[the Course on udemy ](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
-## 🎇Attention please----> all notes and course material inside the resource folder..
+# some references and live versions
 
-- 🐳🐳[all-design-guidelines](#).
-- 🐳🐳[theory-lectures-v2-BEST](#).
-- 🐳🐳[theory-lectures-v2-BEST](#).
-
-#### some references and live versions
+- [Course certification](https://www.udemy.com/certificate/UC-af3a8def-3b9f-4613-a6ca-5b5830efd396/).
+- [Final project Link](https://omnifood-mfarag.netlify.app/)

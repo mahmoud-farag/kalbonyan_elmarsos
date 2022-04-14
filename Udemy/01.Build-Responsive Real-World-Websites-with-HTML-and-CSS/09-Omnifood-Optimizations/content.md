@@ -129,16 +129,25 @@ Recipe directory
 Help center
 Privacy & terms
 
-######
+## steps ?
 
-## Sections
+- define
+- plan
+- sketch
+- design
+- test
+- lunch
+- maintain
 
-- Logo + Navigation
+## sections
+
+- logo + Navigation
 - Hero
 - Featured in
 - How it works
-- Meals (and list of diets)
-- Testimonials + gallery
+- Meals {and list of diets}
+- Testimonial + Gallery
 - Pricing + features
+- Features
 - CTA
 - Footer
