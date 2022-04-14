@@ -4,7 +4,7 @@
 
 🐳🐳[the Course on udemy ](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
-# some references and live versions
+# certification && Project
 
-- 🍀🍀[Course certification](https://www.udemy.com/certificate/UC-af3a8def-3b9f-4613-a6ca-5b5830efd396/).
-- 🍀🍀[Final project Link](https://omnifood-mfarag.netlify.app/)
+- 🍀🍀[certification](https://www.udemy.com/certificate/UC-af3a8def-3b9f-4613-a6ca-5b5830efd396/).
+- 🍀🍀[The project ](https://omnifood-mfarag.netlify.app/)
