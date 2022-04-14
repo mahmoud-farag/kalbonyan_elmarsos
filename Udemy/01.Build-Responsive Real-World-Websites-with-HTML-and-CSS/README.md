@@ -6,5 +6,5 @@
 
 # some references and live versions
 
-- [<h2>Course certification</h2>](https://www.udemy.com/certificate/UC-af3a8def-3b9f-4613-a6ca-5b5830efd396/).
-- [<h2>Final project Link</h2>](https://omnifood-mfarag.netlify.app/)
+- 🍀🍀[Course certification](https://www.udemy.com/certificate/UC-af3a8def-3b9f-4613-a6ca-5b5830efd396/).
+- 🍀🍀[Final project Link](https://omnifood-mfarag.netlify.app/)
