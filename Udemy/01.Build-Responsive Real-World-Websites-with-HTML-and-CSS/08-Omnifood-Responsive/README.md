@@ -12,9 +12,10 @@ the design breaks not on a specific break-points
 
 \*✅ display:none, not allowing any transition or animation, so use opacity:0 instead.
 
-\*✅ there are 3 css properties in group they make the same functionality of display:none
--💫 opacity:0;
--💫 pointer-events:none; --> make it unaccessible to mouse and keyboard
--💫 visibility:none; --> hide it from screen readers.
+\*✅ there are 3 css properties in group they make the same functionality of display:none.
+<br/>
+-💫 opacity:0;<br/>
+-💫 pointer-events:none; --> make it unaccessible to mouse and keyboard<br/>
+-💫 visibility:none; --> hide it from screen readers.<br/>
 
 -✅ if you need to change the x/y of any element without change other elements, just use transform: translateY()/translateX()
