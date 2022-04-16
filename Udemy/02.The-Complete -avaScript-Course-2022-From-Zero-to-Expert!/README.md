@@ -4,9 +4,9 @@
 
 🐳🐳[the Course on udemy](https://www.udemy.com/course/the-complete-javascript-course/)
 
-### ✅(done)Section 01-JavaScript Fundamentals – Part 1
+### ✅(done)-Section 01-JavaScript Fundamentals – Part 1
 
-### (In progress)Section 02-JavaScript Fundamentals – Part 2
+### 💹(In progress)-Section 02-JavaScript Fundamentals – Part 2
 
 ### Section 03-Developer-Skills
 
