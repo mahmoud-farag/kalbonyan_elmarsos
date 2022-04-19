@@ -6,9 +6,9 @@
 
 ### ✅(done)-Section 01-JavaScript Fundamentals – Part 1
 
-### 💹(In progress)-Section 02-JavaScript Fundamentals – Part 2
+### ✅(In progress)-Section 02-JavaScript Fundamentals – Part 2
 
-### ❌Section 03-Developer-Skills
+### (INPROGRESS)Section 03-Developer-Skills
 
 ### ❌Section 04-HTML-CSS
 
