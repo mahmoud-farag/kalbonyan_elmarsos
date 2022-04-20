@@ -60,19 +60,19 @@
 
 ### 🥳[certification](https://www.linkedin.com/learning/certificates/b32a75d0445a3949de3e4011c40b7ae9162962a5ce767b3d4e6f15fbcdfc83af?trk=share_certificate)
 
-## ✅🏆01.udemy/LEARN HTML and CSS
+## ✅🏆01.udemy/LEARN HTML and CSS(37.5 Hours)
 
 ### 🧐[course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3)
 
 ### 🥳[certification](https://www.udemy.com/certificate/UC-af3a8def-3b9f-4613-a6ca-5b5830efd396/)
 
-## 💹🏆02.udemy/The Complete JavaScript Course 2022: From Zero to Expert!
+## 💹🏆02.udemy/The Complete JavaScript Course 2022: From Zero to Expert(68.5 Hours)!
 
 ### 🧐[course](https://www.udemy.com/course/the-complete-javascript-course/)
 
 ### 🥳[certification]()
 
-## 🏆03.udemy/React - The Complete Guide (incl Hooks, React Router, Redux)
+## 🏆03.udemy/React - The Complete Guide (incl Hooks, React Router, Redux)(48 Hours)
 
 ### 🧐[course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
