@@ -16,8 +16,8 @@
 
 ## Project Links
 
-### 🐳🐳[guessing-game](//https://guessing-page.netlify.app/)
+### 🐳🐳[guessing-game](https://guessing-page.netlify.app/)
 
-### 🐳🐳[modal-page](//https://modal-page2.netlify.app/)
+### 🐳🐳[modal-page](https://modal-page2.netlify.app/)
 
 ### 🐳🐳[pig-game](https://pig-game-page.netlify.app/)
