@@ -78,7 +78,7 @@
 
 ### 🥳[certification]()
 
-## 🏆04.udemy/Complete NodeJS Developer in 2022 (GraphQL, MongoDB, + more)
+## 🏆04.udemy/Complete NodeJS Developer in 2022 (GraphQL, MongoDB, + more)(40 Hours)
 
 ### 🧐[course](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
 
