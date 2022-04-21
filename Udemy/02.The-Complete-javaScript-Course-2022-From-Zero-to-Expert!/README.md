@@ -8,17 +8,17 @@
 
 ### ✅(In progress)-Section 02-JavaScript Fundamentals – Part 2
 
-### (INPROGRESS)Section 03-Developer-Skills
+### ✅Section 03-Developer-Skills
 
-### ❌Section 04-HTML-CSS
+### ✅Section 04-HTML-CSS
 
-### ❌Section 05-Guess-My-Number
+### ✅Section 05-Guess-My-Number
 
-### ❌Section 06-Modal
+### ✅Section 06-Modal
 
-### ❌Section 07-Pig-Game
+### ✅Section 07-Pig-Game
 
-### ❌Section 08-Behind-the-Scenes
+### ✅Section 08-Behind-the-Scenes
 
 ### ❌Section 09-Data-Structures-Operators
 
