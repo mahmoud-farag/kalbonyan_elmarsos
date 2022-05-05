@@ -20,15 +20,15 @@
 
 ### ✅Section 08-Behind-the-Scenes
 
-### ❌Section 09-Data-Structures-Operators
+### ✅Section 09-Data-Structures-Operators
 
-### ❌Section 10-Functions
+### ✅Section 10-Functions
 
-### ❌Section 11-Arrays-Bankist
+### ✅Section 11-Arrays-Bankist
 
-### ❌Section 12-Numbers-Dates-Timers-Bankist
+### ✅Section 12-Numbers-Dates-Timers-Bankist
 
-### ❌Section 13-Advanced-DOM-Bankist
+### ✅13-Advanced-DOM-Bankist
 
 ### ❌Section 14-OOP
 
