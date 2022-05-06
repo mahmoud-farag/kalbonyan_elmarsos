@@ -30,7 +30,7 @@
 
 ### ✅13-Advanced-DOM-Bankist
 
-### ❌Section 14-OOP
+### ✅Section 14-OOP
 
 ### ❌Section 15-Mapty
 
