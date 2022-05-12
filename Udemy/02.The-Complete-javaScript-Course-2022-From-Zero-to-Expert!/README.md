@@ -32,11 +32,11 @@
 
 ### ✅Section 14-OOP
 
-### ❌Section 15-Mapty
+### ✅Section 15-Mapty
 
-### ❌Section 16-Asynchronous
+### ✅Section 16-Asynchronous
 
-### ❌Section 17-Modern-JS-Modules-Tooling
+### ✅Section 17-Modern-JS-Modules-Tooling
 
 ### ❌Section 18-forkify
 
