@@ -70,7 +70,7 @@
 
 #### 🧐[course](https://www.udemy.com/course/the-complete-javascript-course/)
 
-#### 🥳[certification]()
+#### 🥳[certification](https://www.udemy.com/certificate/UC-a94bf161-0c26-4db5-9aef-874fe8897147/)
 
 ### 🏆03.udemy/React - The Complete Guide (incl Hooks, React Router, Redux)(48 Hours)
 
