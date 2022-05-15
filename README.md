@@ -66,37 +66,37 @@
 
 #### 🥳[certification](https://www.udemy.com/certificate/UC-af3a8def-3b9f-4613-a6ca-5b5830efd396/)
 
-### 💹🏆02.udemy/The Complete JavaScript Course 2022: From Zero to Expert(68.5 Hours)!
+### ✅🏆02.udemy/The Complete JavaScript Course 2022: From Zero to Expert(68.5 Hours)!
 
 #### 🧐[course](https://www.udemy.com/course/the-complete-javascript-course/)
 
 #### 🥳[certification](https://www.udemy.com/certificate/UC-a94bf161-0c26-4db5-9aef-874fe8897147/)
 
-### 🏆03.udemy/React - The Complete Guide (incl Hooks, React Router, Redux)(48 Hours)
+### ❌03.udemy/React - The Complete Guide (incl Hooks, React Router, Redux)(48 Hours)
 
 #### 🧐[course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 #### 🥳[certification]()
 
-## 🏆04.udemy/Complete NodeJS Developer in 2022 (GraphQL, MongoDB, + more)(40 Hours)
+## ❌🏆04.udemy/Complete NodeJS Developer in 2022 (GraphQL, MongoDB, + more)(40 Hours)
 
 #### 🧐[course](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
 
 #### 🥳[certification]()
 
-### 🏆01.AWS/AWS Certified Cloud Practitioner (13h 0m)
+### ❌🏆01.AWS/AWS Certified Cloud Practitioner (13h 0m)
 
 #### 🧐[course](https://acloudguru.com/course/aws-certified-cloud-practitioner-2020)
 
 #### 🥳[certification]()
 
-### 🏆02.AWS/AWS Certified Solutions Architect Associate (42h 0m)
+### ❌🏆02.AWS/AWS Certified Solutions Architect Associate (42h 0m)
 
 #### 🧐[course](https://acloudguru.com/course/aws-certified-solutions-architect-associate-saa-c02-4KYV)
 
 #### 🥳[certification]()
 
-### 🏆03.AWS/Serverless Stack (The Basics)
+### ❌🏆03.AWS/Serverless Stack (The Basics)
 
 #### 🧐[course](https://serverless-stack.com/#guide)
 
