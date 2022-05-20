@@ -56,6 +56,5 @@
 
 ## 🐳🐳[06-maping](https://maptify.netlify.app/)
 
-## 🐳🐳[07-maping](https://maptify.netlify.app/)
 
 ## 🐳🐳[08-forkify_finalProject](https://forkifymeta.netlify.app/)

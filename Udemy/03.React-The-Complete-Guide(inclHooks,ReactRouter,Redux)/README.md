@@ -10,9 +10,9 @@
 
 ### ✅Section 3: React Basics & Working With Components
 
-### ❌Section 4: React State & Working with Events
+### ✅Section 4: React State & Working with Events
 
-### ❌Section 5: Rendering Lists & Conditional Content
+### ✅Section 5: Rendering Lists & Conditional Content
 
 ### ❌Section 6: Styling React Components
 
@@ -62,22 +62,6 @@
 
 ### ❌Section 29: Optional: React Summary & Core Feature Walkthrough
 
-## certification && Project
+## certification && Projects
 
-## 🥳[certification](https://www.udemy.com/certificate/UC-a94bf161-0c26-4db5-9aef-874fe8897147/).
-
-## 🐳🐳[01-Guessing_game](https://guessing-page.netlify.app/)
-
-## 🐳🐳[02-modal_page](https://modal-page2.netlify.app/)
-
-## 🐳🐳[03-pig_game](https://pig-game-page.netlify.app/)
-
-## 🐳🐳[04-banking_account](https://bankitfy.netlify.app/)
-
-## 🐳🐳[05-banking2](https://banktify2.netlify.app/)
-
-## 🐳🐳[06-maping](https://maptify.netlify.app/)
-
-## 🐳🐳[07-maping](https://maptify.netlify.app/)
-
-## 🐳🐳[08-forkify_finalProject](https://forkifymeta.netlify.app/)
+## 🥳[certification](#).
