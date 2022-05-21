@@ -14,13 +14,13 @@
 
 ### ✅Section 5: Rendering Lists & Conditional Content
 
-### ❌Section 6: Styling React Components
+### ✅Section 6: Styling React Components
 
-### ❌Section 7: Debugging React Apps
+### ✅Section 7: Debugging React Apps
 
-### ❌Section 8: Time to Practice: A Complete Practice Project
+### ✅Section 8: Time to Practice: A Complete Practice Project
 
-### ❌Section 9: Diving Deeper: Working with Fragments, Portals & "Refs"
+### ✅Section 9: Diving Deeper: Working with Fragments, Portals & "Refs"
 
 ### ❌Section 10: Advanced: Handling Side Effects, Using Reducers & Using the Context API
 
