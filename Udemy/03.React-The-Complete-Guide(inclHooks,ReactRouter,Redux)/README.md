@@ -22,9 +22,9 @@
 
 ### ✅Section 9: Diving Deeper: Working with Fragments, Portals & "Refs"
 
-### ❌Section 10: Advanced: Handling Side Effects, Using Reducers & Using the Context API
+### ✅Section 10: Advanced: Handling Side Effects, Using Reducers & Using the Context API
 
-### ❌Section 11: Practice Project: Building a Food Order App
+### ✅Section 11: Practice Project: Building a Food Order App
 
 ### ❌Section 12: A Look Behind The Scenes Of React & Optimization Techniques
 
