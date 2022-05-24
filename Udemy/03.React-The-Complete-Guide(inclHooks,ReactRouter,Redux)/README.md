@@ -26,9 +26,9 @@
 
 ### ✅Section 11: Practice Project: Building a Food Order App
 
-### ❌Section 12: A Look Behind The Scenes Of React & Optimization Techniques
+### ✅Section 12: A Look Behind The Scenes Of React & Optimization Techniques
 
-### ❌Section 13: An Alternative Way Of Building Components: Class-based Components
+### ✅Section 13: An Alternative Way Of Building Components: Class-based Components
 
 ### ❌Section 14: Sending Http Requests (e.g. Connecting to a Database)
 
