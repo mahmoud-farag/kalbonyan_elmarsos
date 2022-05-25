@@ -30,9 +30,9 @@
 
 ### ✅Section 13: An Alternative Way Of Building Components: Class-based Components
 
-### ❌Section 14: Sending Http Requests (e.g. Connecting to a Database)
+### ✅Section 14: Sending Http Requests (e.g. Connecting to a Database)
 
-### ❌Section 15: Building Custom React Hooks
+### ✅Section 15: Building Custom React Hooks
 
 ### ❌Section 16: Working with Forms & User Input
 

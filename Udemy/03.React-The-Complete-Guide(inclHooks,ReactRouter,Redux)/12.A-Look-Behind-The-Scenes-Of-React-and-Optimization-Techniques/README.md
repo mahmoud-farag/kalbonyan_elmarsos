@@ -11,3 +11,5 @@
 ## 😍the state do not change after calling SetState() --- in some times it delayed for other urgant react tasks, so the best way to alter a state is by using a callBack fun in the SetState((prevState)=>{change state her}) , this only used if the new state depends on the prev state
 
 ## 😍useMemo() used to optimize func result from re-calculated again
+
+### 🐳🐳(section-project)[https://react-course-section12.netlify.app/]

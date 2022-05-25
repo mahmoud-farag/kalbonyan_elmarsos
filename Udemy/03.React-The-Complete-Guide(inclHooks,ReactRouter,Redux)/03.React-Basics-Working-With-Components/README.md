@@ -12,3 +12,5 @@
 ## indexjs is the first file executed in react app.
 
 ## in the Custom component, to render any jsx element inside it you need to use the props.children property
+
+## 🐳🐳 (section-project)[https://react-course-section3.netlify.app]
