@@ -28,4 +28,4 @@
   - not in nested func.
   - not in any block statement.
 
-### 🐳🐳(section-project)[https://react-course-section10.netlify.app/]
+### 🐳🐳[section-project](https://react-course-section10.netlify.app/)

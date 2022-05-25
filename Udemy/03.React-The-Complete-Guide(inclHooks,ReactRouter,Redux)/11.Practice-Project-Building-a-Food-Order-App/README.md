@@ -1,3 +1,3 @@
 # 😎Section Notes
 
-### 🐳🐳(section-project)[react-course-section11.netlify.app]
+### 🐳🐳[section-project](react-course-section11.netlify.app)

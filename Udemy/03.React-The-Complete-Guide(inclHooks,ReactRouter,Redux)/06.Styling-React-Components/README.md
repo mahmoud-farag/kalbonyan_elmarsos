@@ -6,4 +6,4 @@
 - ✔scoped css using styled-components lib.
 - ✔scoped css using css native modules.
 
-### 🐳🐳(section-project)[https://react-course-section6.netlify.app]
+### 🐳🐳[section-project](https://react-course-section6.netlify.app)

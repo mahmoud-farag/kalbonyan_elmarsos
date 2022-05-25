@@ -12,4 +12,4 @@
 
 ## 😍useMemo() used to optimize func result from re-calculated again
 
-### 🐳🐳(section-project)[https://react-course-section12.netlify.app/]
+### 🐳🐳[section-project](https://react-course-section12.netlify.app/)
