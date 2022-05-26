@@ -36,7 +36,7 @@
 
 ### ✅Section 16: Working with Forms & User Input
 
-### ❌Section 17: Practice Project: Adding Http & Forms To The Food Order App
+### ✅Section 17: Practice Project: Adding Http & Forms To The Food Order App
 
 ### ❌Section 18: Diving into Redux (An Alternative To The Context API)
 
@@ -89,5 +89,9 @@
 ### 🐳🐳[section14-project](https://react-course-sectio14.netlify.app/)
 
 ### 🐳🐳[Section15-project](https://react-course-section15.netlify.app)
+
+### 🐳🐳[Section16-project](https://react-course-section16.netlify.app)
+
+### 🐳🐳[section-project](https://react-course-section17.netlify.app)
 
 ## 🥳[certification](#).

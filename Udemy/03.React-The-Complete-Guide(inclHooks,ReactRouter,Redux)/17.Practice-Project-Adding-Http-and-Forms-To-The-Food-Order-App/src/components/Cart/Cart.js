@@ -1,54 +1,111 @@
-import { useContext } from 'react';
+import React, { useContext, useState } from "react";
+import CartContext from "../../contextAPI/cart-context";
+import FormCheckout from "../form/FormCheckout";
+import Modal from "../usableCompnents/modal/Modal";
 
-import Modal from '../UI/Modal';
-import CartItem from './CartItem';
-import classes from './Cart.module.css';
-import CartContext from '../../store/cart-context';
+import cardStyles from "./Cart.module.css";
+import CartItem from "./cartItem/CartItem";
 
-const Cart = (props) => {
-  const cartCtx = useContext(CartContext);
+export default function Cart(props) {
+  const [displayForm, setDisplayFrom] = useState(false);
+  const [isSubmitted, setIsSubmitted] = useState(false);
+  const cartContext = useContext(CartContext);
+  const {
+    items,
+    amount: totalAmount,
+    addItem,
+    removeItem,
+    clearCart,
+  } = cartContext;
 
-  const totalAmount = `$${cartCtx.totalAmount.toFixed(2)}`;
-  const hasItems = cartCtx.items.length > 0;
-
-  const cartItemRemoveHandler = (id) => {
-    cartCtx.removeItem(id);
+  const isNoItems = items.length !== 0;
+  const removeItemHandler = (id) => {
+    removeItem(id);
   };
 
-  const cartItemAddHandler = (item) => {
-    cartCtx.addItem(item);
+  const orderHandler = (event) => {
+    setDisplayFrom(true);
+  };
+  const addItemHandler = (item) => {
+    addItem({ ...item, amount: 1 });
+  };
+
+  const orderSubmitHandler = async (userOrderData) => {
+    console.log(userOrderData);
+
+    await fetch(
+      "https://react-demo-37e14-default-rtdb.firebaseio.com/orders.json",
+      {
+        method: "POST",
+        body: JSON.stringify({ userData: userOrderData, orderItems: items }),
+        headers: { "Content-type": "application/json" },
+      }
+    );
+    setIsSubmitted(true);
+    clearCart();
   };
 
   const cartItems = (
-    <ul className={classes['cart-items']}>
-      {cartCtx.items.map((item) => (
+    <ul className={cardStyles["cart-items"]}>
+      {items.map((item, index) => (
         <CartItem
-          key={item.id}
-          name={item.name}
+          key={index}
           amount={item.amount}
           price={item.price}
-          onRemove={cartItemRemoveHandler.bind(null, item.id)}
-          onAdd={cartItemAddHandler.bind(null, item)}
+          name={item.name}
+          // onRemove={()=>{removeItemHandler(id)}}
+          onRemove={removeItemHandler.bind(null, item.id)}
+          // onAdd={()=>{addItemHandler(item)}}
+          onAdd={addItemHandler.bind(null, item)}
         />
       ))}
     </ul>
   );
 
-  return (
-    <Modal onClose={props.onClose}>
+  const btns = !displayForm && (
+    <div className={cardStyles.actions}>
+      <button className={cardStyles["button--alt"]} onClick={props.onClose}>
+        Close
+      </button>
+      {isNoItems && (
+        <button className={cardStyles.button} onClick={orderHandler}>
+          Order
+        </button>
+      )}
+    </div>
+  );
+
+  const modalContent = (
+    <>
       {cartItems}
-      <div className={classes.total}>
-        <span>Total Amount</span>
-        <span>{totalAmount}</span>
+      <div className={cardStyles.total}>
+        <span>Amount</span>
+        <span>$ {totalAmount.toFixed(2)}</span>
       </div>
-      <div className={classes.actions}>
-        <button className={classes['button--alt']} onClick={props.onClose}>
+      {displayForm && (
+        <FormCheckout
+          onOrder={orderSubmitHandler}
+          onCloseForm={props.onClose}
+        />
+      )}
+      {btns}
+    </>
+  );
+  const successMesg = (
+    <>
+      <p>Your order submitted successfully</p>
+      <div className={cardStyles.actions}>
+        <button className={cardStyles.button} onClick={props.onClose}>
           Close
         </button>
-        {hasItems && <button className={classes.button}>Order</button>}
       </div>
+    </>
+  );
+
+  return (
+    <Modal onClose={props.onClose}>
+      {!isSubmitted && modalContent}
+      {isSubmitted && successMesg}
     </Modal>
   );
-};
-
-export default Cart;
+}
