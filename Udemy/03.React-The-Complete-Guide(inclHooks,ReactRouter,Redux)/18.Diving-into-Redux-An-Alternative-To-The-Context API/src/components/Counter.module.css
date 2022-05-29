@@ -14,7 +14,10 @@
   margin: 0;
   font-size: 1rem;
 }
-
+.counter button {
+  margin-left: 2rem;
+  margin-top: 2rem;
+}
 .value {
   font-size: 2rem;
   color: #3c0080;

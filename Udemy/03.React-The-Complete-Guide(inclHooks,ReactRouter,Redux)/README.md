@@ -38,9 +38,9 @@
 
 ### ✅Section 17: Practice Project: Adding Http & Forms To The Food Order App
 
-### ❌Section 18: Diving into Redux (An Alternative To The Context API)
+### ✅Section 18: Diving into Redux (An Alternative To The Context API)
 
-### ❌Section 19: Advanced Redux
+### ✅Section 19: Advanced Redux
 
 ### ❌Section 20: Building a Multi-Page SPA with React Router
 
@@ -92,6 +92,10 @@
 
 ### 🐳🐳[Section16-project](https://react-course-section16.netlify.app)
 
-### 🐳🐳[section-project](https://react-course-section17.netlify.app)
+### 🐳🐳[section17-project](https://react-course-section17.netlify.app)
+
+### 🐳🐳[section18-project](https://react-course-section18.netlify.app/)
+
+### 🐳🐳[section19-project](https://react-course-section19.netlify.app)
 
 ## 🥳[certification](#).
