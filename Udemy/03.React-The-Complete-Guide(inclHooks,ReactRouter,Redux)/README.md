@@ -42,9 +42,9 @@
 
 ### ✅Section 19: Advanced Redux
 
-### ❌Section 20: Building a Multi-Page SPA with React Router
+### ✅Section 20: Building a Multi-Page SPA with React Router
 
-### ❌Section 21: Deploying React Apps
+### ✅Section 21: Deploying React Apps
 
 ### ❌Section 22: Adding Authentication To React Apps
 
@@ -62,7 +62,7 @@
 
 ### ❌Section 29: Optional: React Summary & Core Feature Walkthrough
 
-## certification && Projects
+## **Projects**
 
 ### 🐳🐳 [section3-project](https://react-course-section3.netlify.app)
 
@@ -97,5 +97,9 @@
 ### 🐳🐳[section18-project](https://react-course-section18.netlify.app/)
 
 ### 🐳🐳[section19-project](https://react-course-section19.netlify.app)
+
+### 🐳🐳[section20-project](https://react-course-section20.netlify.app/)
+
+## **certification**
 
 ## 🥳[certification](#).
