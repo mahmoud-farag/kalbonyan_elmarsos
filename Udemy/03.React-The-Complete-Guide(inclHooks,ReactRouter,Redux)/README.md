@@ -46,9 +46,9 @@
 
 ### ✅Section 21: Deploying React Apps
 
-### ❌Section 22: Adding Authentication To React Apps
+### ✅Section 22: Adding Authentication To React Apps
 
-### ❌Section 23: A (Pretty Deep Dive) Introduction to Next.js
+### ✅Section 23: A (Pretty Deep Dive) Introduction to Next.js
 
 ### ❌Section 24: Animating React Apps
 
@@ -101,6 +101,8 @@
 ### 🐳🐳[section20-project](https://react-course-section20.netlify.app/)
 
 ### 🐳🐳[section22-project](https://react-course-section22.netlify.app)
+
+### 😍🐳🐳[section23-project](https://nextjs-project-ashen-beta.vercel.app/)
 
 ## **certification**
 
