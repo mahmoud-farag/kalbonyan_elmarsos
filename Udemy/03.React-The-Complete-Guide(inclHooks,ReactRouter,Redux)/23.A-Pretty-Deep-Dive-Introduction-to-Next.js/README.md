@@ -6,4 +6,4 @@
 
 ## 😍 SSG--> {Server-Side-Generation}, VS SSR --> {Server-Side-Rendering}
 
-### 😍🐳🐳[section23-project](https://nextjs-project-ashen-beta.vercel.app/)
+### 🐳🐳[section23-project](https://nextjs-project-ashen-beta.vercel.app/)

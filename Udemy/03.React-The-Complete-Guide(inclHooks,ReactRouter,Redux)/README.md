@@ -50,9 +50,9 @@
 
 ### ✅Section 23: A (Pretty Deep Dive) Introduction to Next.js
 
-### ❌Section 24: Animating React Apps
+### ✅Section 24: Animating React Apps
 
-### ❌Section 25: Replacing Redux with React Hooks
+### ✅Section 25: Replacing Redux with React Hooks
 
 ### ❌Section 26: Testing React Apps (Unit Tests)
 
@@ -103,6 +103,10 @@
 ### 🐳🐳[section22-project](https://react-course-section22.netlify.app)
 
 ### 😍🐳🐳[section23-project](https://nextjs-project-ashen-beta.vercel.app/)
+
+### 🐳🐳[section24-project](https://react-course-section24.netlify.app/)
+
+### 🐳🐳[section25-project](https://react-course-section25.netlify.app)
 
 ## **certification**
 
