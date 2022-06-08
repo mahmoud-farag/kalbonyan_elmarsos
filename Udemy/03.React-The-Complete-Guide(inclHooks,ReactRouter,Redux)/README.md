@@ -54,9 +54,9 @@
 
 ### ✅Section 25: Replacing Redux with React Hooks
 
-### ❌Section 26: Testing React Apps (Unit Tests)
+### ✅Section 26: Testing React Apps (Unit Tests)
 
-### ❌Section 27: React + TypeScript
+### ✅Section 27: React + TypeScript
 
 ### ❌Section 28: Optional: React Hooks Introduction & Summary
 
@@ -80,7 +80,7 @@
 
 ### 🐳🐳[section10-project](https://react-course-section10.netlify.app/)
 
-### 🐳🐳[section11-project](react-course-section11.netlify.app)
+### 🐳🐳[section11-project](https://react-course-section11.netlify.app/)
 
 ### 🐳🐳[section12-project](https://react-course-section12.netlify.app/)
 
@@ -102,11 +102,13 @@
 
 ### 🐳🐳[section22-project](https://react-course-section22.netlify.app)
 
-### 😍🐳🐳[section23-project](https://nextjs-project-ashen-beta.vercel.app/)
+### 🐳🐳[section23-project](https://nextjs-project-ashen-beta.vercel.app/)
 
 ### 🐳🐳[section24-project](https://react-course-section24.netlify.app/)
 
 ### 🐳🐳[section25-project](https://react-course-section25.netlify.app)
+
+### 🐳🐳[section27-project](https://react-course-section27.netlify.app)
 
 ## **certification**
 
