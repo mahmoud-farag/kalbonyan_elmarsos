@@ -110,6 +110,8 @@
 
 ### 🐳🐳[section27-project](https://react-course-section27.netlify.app)
 
+### 🐳🐳[section28-project](https://react-course-section28.netlify.app/)
+
 ## **certification**
 
 ## 🥳[certification](#).
