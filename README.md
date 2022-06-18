@@ -72,11 +72,11 @@
 
 #### 🥳[certification](https://www.udemy.com/certificate/UC-a94bf161-0c26-4db5-9aef-874fe8897147/)
 
-### ❌03.udemy/React - The Complete Guide (incl Hooks, React Router, Redux)(48 Hours)
+### ✅🏆03.udemy/React - The Complete Guide (incl Hooks, React Router, Redux)(48 Hours)
 
 #### 🧐[course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
-#### 🥳[certification]()
+#### 🥳[certification](https://www.udemy.com/certificate/UC-cab667c1-da7d-4695-b972-54f969c1dd78/)
 
 ## ❌🏆04.udemy/Complete NodeJS Developer in 2022 (GraphQL, MongoDB, + more)(40 Hours)
 

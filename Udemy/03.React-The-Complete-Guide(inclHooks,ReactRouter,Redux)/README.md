@@ -58,7 +58,7 @@
 
 ### ✅Section 27: React + TypeScript
 
-### ❌Section 28: Optional: React Hooks Introduction & Summary
+### ✅Section 28: Optional: React Hooks Introduction & Summary
 
 ### ❌Section 29: Optional: React Summary & Core Feature Walkthrough
 
@@ -112,6 +112,8 @@
 
 ### 🐳🐳[section28-project](https://react-course-section28.netlify.app/)
 
+### 🐳🐳[section29-project](https://react-course-section29.netlify.app)
+
 ## **certification**
 
-## 🥳[certification](#).
+## 🥳[certification](https://www.udemy.com/certificate/UC-cab667c1-da7d-4695-b972-54f969c1dd78/).
