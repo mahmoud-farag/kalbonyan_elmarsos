@@ -21,7 +21,7 @@ const Demo = (props) => {
     <div className={classes.list}>
       <h2>{props.title}</h2>
       <ul>
-        {sortedList.map((item) => (
+        {items.map((item) => (
           <li key={item}>{item}</li>
         ))}
       </ul>
