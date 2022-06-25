@@ -1,1 +1,17 @@
 links.mead.io/json-sample
+
+
+
+
+// api-key(weather app)
+62bf957f37bab8b1735770ffa7a91581
+
+
+// mapbox publickey
+default= pk.eyJ1IjoibWFobW91ZGZhcmFnIiwiYSI6ImNsNG80YjcxODAxb2EzbWxuZzFjeWF5bWEifQ.OibHgjiLi2jCB9R2QXTE8w
+custom= pk.eyJ1IjoibWFobW91ZGZhcmFnIiwiYSI6ImNsNG80ZzU5cTAxanAzZ252dHR1bGl1czgifQ.ulLhkJMkUmHvT0LRSPP6PA
+
+
+-->https://docs.mapbox.com/api/search/geocoding/
+-->https://account.mapbox.com/access-tokens/
+-->https://docs.mapbox.com/playground/geocoding/?search_text=-74.04347418892907,40.730150223747245&types=place%2Cpostcode%2Caddress&limit=1

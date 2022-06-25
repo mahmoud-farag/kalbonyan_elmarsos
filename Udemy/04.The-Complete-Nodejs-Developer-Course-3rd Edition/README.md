@@ -14,13 +14,13 @@ Learn Node.js by building real-world applications with Node JS, Express, MongoDB
 
 ### ✅Section5: Debugging Nodejs(Notes App)
 
-### ❌Section6: Asynchronous Nodejs(Weather App)
+### ✅Section6: Asynchronous Nodejs(Weather App)
 
-### ❌Section7: Web Servers(Weather App)
+### ✅Section7: Web Servers(Weather App)
 
-### ❌Section8: Accessing APi from Browser(Weather App)
+### ✅Section8: Accessing APi from Browser(Weather App)
 
-### ❌Section9: Application Deployment(Weather App)
+### ✅Section9: Application Deployment(Weather App)
 
 ### ❌Section10: MongoDB and Promises(Task App)
 
