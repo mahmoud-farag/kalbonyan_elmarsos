@@ -15,3 +15,9 @@ custom= pk.eyJ1IjoibWFobW91ZGZhcmFnIiwiYSI6ImNsNG80ZzU5cTAxanAzZ252dHR1bGl1czgif
 -->https://docs.mapbox.com/api/search/geocoding/
 -->https://account.mapbox.com/access-tokens/
 -->https://docs.mapbox.com/playground/geocoding/?search_text=-74.04347418892907,40.730150223747245&types=place%2Cpostcode%2Caddress&limit=1
+
+
+
+start mongodb server:net start MongoDB
+stop mongodb server :net stop MongoDB
+

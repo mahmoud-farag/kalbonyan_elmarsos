@@ -22,9 +22,9 @@ Learn Node.js by building real-world applications with Node JS, Express, MongoDB
 
 ### ✅Section9: Application Deployment(Weather App)
 
-### ❌Section10: MongoDB and Promises(Task App)
+### ✅Section10: MongoDB and Promises(Task App)
 
-### ❌Section11: REST APIs and Mongoose(Task App)
+### ✅Section11: REST APIs and Mongoose(Task App)
 
 ### ❌Section12: API Authentication and Security(Task App)
 
@@ -36,15 +36,15 @@ Learn Node.js by building real-world applications with Node JS, Express, MongoDB
 
 ### ❌Section16: Testing Nodejs (Task App)
 
-### ❌Section17: Real -Time Web Application with Soket.io(Chat App)
+### ❌Section17: Real -Time Web Application with Socket.io(Chat App)
 
 ## **Projects**
 
 ### 🐳🐳 [notes-App]()
 
-### 🐳🐳 [Task-App]()
+### [weather-api project](https://farag-weather-api.herokuapp.com/)
 
-### 🐳🐳 [Weather-App]()
+### 🐳🐳 [Task-App]()
 
 ### 🐳🐳 [Chat-App]()
 
