@@ -1,0 +1,5 @@
+/////Important npm modules/////////////
+1- multer -->  for files/images uploading
+2- sharp--> for resize/ reformat uploaded images.
+3- sendgrid --> for email sending
+4- env-cmd  --> for create app environment variables.
