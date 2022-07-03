@@ -32,11 +32,11 @@ Learn Node.js by building real-world applications with Node JS, Express, MongoDB
 
 ### ✅Section14: File Uploads(Task App)
 
-### ❌Section15: Sending Emails(Task App)
+### ✅Section15: Sending Emails(Task App)
 
-### ❌Section16: Testing Nodejs (Task App)
+### ✅Section16: Testing Nodejs (Task App)
 
-### ❌Section17: Real -Time Web Application with Socket.io(Chat App)
+### ❌Section17: Real -Time Web Application with Socket.io(Chat App)   
 
 ## **Projects**
 
@@ -44,7 +44,7 @@ Learn Node.js by building real-world applications with Node JS, Express, MongoDB
 
 ### 🐳🐳 [weather-api project](https://farag-weather-api.herokuapp.com/)
 
-### 🐳🐳 [Task-App]()
+### 🐳🐳 [Task-App](https://task-api-32.herokuapp.com)
 
 ### 🐳🐳 [Chat-App]()
 
