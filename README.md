@@ -78,11 +78,11 @@
 
 #### 🥳[certification](https://www.udemy.com/certificate/UC-cab667c1-da7d-4695-b972-54f969c1dd78/)
 
-## ❌🏆04.udemy/Complete NodeJS Developer in 2022 (GraphQL, MongoDB, + more)(40 Hours)
+## ✅🏆04.udemy/The Complete Node.js Developer Course (3rd Edition)(35 Hours)
 
-#### 🧐[course](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
+#### 🧐[course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
 
-#### 🥳[certification]()
+#### 🥳[certification](https://www.udemy.com/certificate/UC-cad850bc-ba60-4853-851d-bde2c4583488/)
 
 ### ❌🏆01.AWS/AWS Certified Cloud Practitioner (13h 0m)
 

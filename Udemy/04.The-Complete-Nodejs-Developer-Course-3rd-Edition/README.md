@@ -1,10 +1,9 @@
-# Course Outlines
+# 😎Course Outlines
 
 # 🤍🤍 The Complete Node.js Developer Course (3rd Edition)
 
-### 💘The Complete Node.js Developer Course (3rd Edition)
 
-Learn Node.js by building real-world applications with Node JS, Express, MongoDB, Jest, and more!. Created by Andrew Mead,Rob Percival.
+💘Learn Node.js by building real-world applications with Node JS, Express, MongoDB, Jest, and more!. Created by Andrew Mead,Rob Percival.
 
 ### ✅Section2: installing and exploring nodejs
 
@@ -36,7 +35,7 @@ Learn Node.js by building real-world applications with Node JS, Express, MongoDB
 
 ### ✅Section16: Testing Nodejs (Task App)
 
-### ❌Section17: Real -Time Web Application with Socket.io(Chat App)   
+### ✅Section17: Real -Time Web Application with Socket.io(Chat App)   
 
 ## **Projects**
 
@@ -46,8 +45,8 @@ Learn Node.js by building real-world applications with Node JS, Express, MongoDB
 
 ### 🐳🐳 [Task-App](https://task-api-32.herokuapp.com)
 
-### 🐳🐳 [Chat-App]()
+### 🐳🐳 [Chat-App](https://chatv1-app.herokuapp.com/)
 
 ## **certification**
 
-## 🥳[certification]().
+## 🥳[certification](https://www.udemy.com/certificate/UC-cad850bc-ba60-4853-851d-bde2c4583488/).
